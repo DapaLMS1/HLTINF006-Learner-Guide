@@ -1,14 +1,14 @@
-root: ./
-structure:
-  summary: SUMMARY.md
-content:
-  - README.md
-  - module-1.md
-  - module-2.md
-  - module-3.md
-  - appendix-1.md
-  - appendix-2.md
-  - appendix-3.md
-  - appendix-4.md
-  - appendix-5.md
-  - references.md
+site:
+  structure:
+    summary: SUMMARY.md
+  content:
+    - README.md
+    - module-1.md
+    - module-2.md
+    - module-3.md
+    - appendix-1.md
+    - appendix-2.md
+    - appendix-3.md
+    - appendix-4.md
+    - appendix-5.md
+    - references.md
