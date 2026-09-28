@@ -1,7 +1,7 @@
 site:
   title: "HLTINF006 Learner Guide"
   structure:
-    summary: SUMMARY.md
+    - summary: SUMMARY.md
   content:
     - README.md
     - module-1.md
